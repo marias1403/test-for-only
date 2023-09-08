@@ -51,7 +51,7 @@ window.addEventListener('resize', calculatePointerPosition);
 
 const buttons = document.querySelectorAll(".button");
 let isToggled = false;
-const buttonTexts = ["Текст 1", "Текст 2", "Текст 3", "Текст4", "Текст5", "Текст6", "Текст7", "Текст8", "Текст9", "Текст10"];
+const buttonTexts = ["Текст 1", "Текст 2", "Текст 3", "Текст 4", "Текст 5", "Текст 6", "Текст 7", "Текст 8", "Текст 9", "Текст 10"];
 let currentIndex = 0;
 
 buttons.forEach((button) => {
