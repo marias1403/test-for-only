@@ -1,0 +1,18 @@
+.button {
+  padding: 0;
+  cursor: pointer;
+  width: 41px;
+  height: 41px;
+  opacity: .7;
+  background-color: #3877EE;
+  border-radius: 50%;
+  border-style: none;
+  background-image: url("../../images/button-icon.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+}
+
+.button:hover {
+  opacity: .5;
+}
