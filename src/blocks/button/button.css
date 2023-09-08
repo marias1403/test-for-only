@@ -5,14 +5,11 @@
   height: 41px;
   opacity: .7;
   background-color: #3877EE;
-  border-radius: 50%;
+  border-radius: 40px;
   border-style: none;
   background-image: url("../../images/button-icon.svg");
   background-position: center;
   background-repeat: no-repeat;
+  box-sizing: border-box;
   position: absolute;
-}
-
-.button:hover {
-  opacity: .5;
 }

@@ -1,0 +1,12 @@
+.button_opened {
+  opacity: 1;
+  width: fit-content;
+  background-image: url("../../../images/button-opened-icon.svg");
+  background-position-x: 15px;
+  background-position-y: center;
+  padding: 11px 15px 11px 40px;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: normal;
+}
